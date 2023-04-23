@@ -1,0 +1,18 @@
+======================================================
+evaling hard
+[2023-03-21 18:26:39]	loss_rec 480.843| loss_im 0.012	PSNR 19.39 | SSIM 0.7071	
+save display images
+aster_accuray: 30.53%
+best_hard = 32.24%
+evaling easy
+[2023-03-21 18:28:41]	loss_rec 686.814| loss_im 0.005	PSNR 22.65 | SSIM 0.8358	
+save display images
+aster_accuray: 63.19%
+best_easy = 65.41%
+evaling medium
+[2023-03-21 18:30:32]	loss_rec 423.786| loss_im 0.004	PSNR 18.97 | SSIM 0.6574	
+save display images
+aster_accuray: 45.50%
+best_medium = 46.49%
+[2023-03-21 18:31:02]	Epoch: [167][43/271]	vis_dir=demo	0.718 	
+[2023-03-21 18:31:33]	Epoch: [167][143/271]	vis_dir=demo	0.537 	

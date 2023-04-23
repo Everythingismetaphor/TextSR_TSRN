@@ -1,0 +1,19 @@
+[2023-03-22 11:08:11]	Epoch: [99][171/271]	vis_dir=demo	0.733 	
+======================================================
+evaling hard
+[2023-03-22 11:09:53]	loss_rec 456.904| loss_im 0.013	PSNR 18.74 | SSIM 0.6875	
+save display images
+aster_accuray: 28.37%
+best_hard = 30.31%
+evaling easy
+[2023-03-22 11:11:52]	loss_rec 548.510| loss_im 0.007	PSNR 21.78 | SSIM 0.8226	
+save display images
+aster_accuray: 62.88%
+best_easy = 64.24%
+evaling medium
+[2023-03-22 11:13:40]	loss_rec 434.113| loss_im 0.016	PSNR 18.38 | SSIM 0.6370	
+save display images
+aster_accuray: 41.18%
+best_medium = 43.16%
+
+Process finished with exit code 0
